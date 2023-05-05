@@ -5,13 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning 
--Git
+- 🌱 I’m currently learning
+ -Git
 -Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+- m.y.traichenkova@student.khai.edu
+- https://t.me/Marminnie
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+GYFU
