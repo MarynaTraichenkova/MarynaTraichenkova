@@ -28,15 +28,15 @@ git config --global user.email <a name="_hlk134152387"></a>traychenkova@gmail.co
 
 ssh-keygen -t ed25519 -C "traychenkova@gmail.com"
 
-![](S3.png)
+![] (S3.png)
 
 6\.  Створили новий репозиторій з назвою такою ж як і назва акаунту:
 
-![](S4.png)
+![] (S4.png)
 
 5. Склонувати репозиторій за допомогою git clone на локальний пк та відредагувати README.md:
 
-![](S5.png)
+![] (S5.png)
 
 9. Завантажили опис профілю:
 
